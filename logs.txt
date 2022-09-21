@@ -1,0 +1,11 @@
+21.09.2022
+Rolesyazılım Internal V1 Yayınlandı!
+Hile Sürekli Olarak Güncel Tutulacaktır.
+Overwatch, Untrusted, VAC Riskleri Size Aittir.
+Güncellemeler Buraya Not Edilecektir.
+
+Özellikler:
+-Nişan Ayarları (Aimbot, Triggerbot, Backtrack)
+-Görüş Ayarları (Genel, Esp, Chams, Glow, SkinChanger)
+-Diğer Ayarlar 
+-Config Ayarları
