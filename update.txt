@@ -1,5 +1,11 @@
-07.10.2022 / 10/07/2022
-Updates:
+09.10.2022 / 10/09/2022
+updates:
+-Feature Names Edited
+-Useless Features Removed.
+-Name Changer Removed (Broken)
+-Fixed Ragebot Bugs
+
+previous updates:
 -Added All Features
 -RolesWare Released
 
