@@ -1,12 +1,12 @@
-09.10.2022 / 10/09/2022
+05.11.2022 / 11/05/2022
 updates:
+-Signatures Updated
+-Some Bugs Fixed
+
+previous updates:
 -Feature Names Edited
 -Useless Features Removed.
 -Name Changer Removed (Broken)
 -Fixed Ragebot Bugs
-
-previous updates:
--Added All Features
--RolesWare Released
 
 Developer: Rolesional
